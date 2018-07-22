@@ -1,0 +1,52 @@
+body{
+	font-family: "Hervatica",Sans-serif;
+	color: #ffffff;
+	font-size: 2vw
+}
+
+h1 {
+	font-size: 10vw;
+	color: #CB1B45;
+	margin: 0;
+	line-height: 1;
+	padding: 0;
+}
+
+h3{
+	font-size:2vw;
+	color:#ffffff;
+	margin: 0;
+	line-height: 1;
+	padding: 0;
+
+}
+
+
+
+.header_nav{
+	font-size:20px;
+	color:#555555;
+	text-decoration: none;
+	bottom:0px;	
+	margin:4px;
+
+}
+
+.pic{
+	vertical-align:middle;
+	margin:4px;
+}
+
+#web_list_container{
+	font-size:30px;
+	color:#000000;
+	text-decoration: none;	
+	margin-top: 80px;
+	margin-left: 100px;
+}
+
+
+div.linkcolor span{
+	color:#CB1B45;
+
+}
